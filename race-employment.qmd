@@ -3,6 +3,14 @@ title: "Race and Employment"
 format: html
 ---
 
+How does race connect to employment? 
+
+What proportion of African American names compared to white names received callbacks? 
+
+Preceptor table: 
+The units would be each name and its associated race. The potential outcome would be if or if not the name received a callback. 
+
+
 ```{r}
 
 ```
