@@ -8,9 +8,13 @@ How does race connect to employment?
 What proportion of African American names compared to white names received callbacks? 
 
 Preceptor table: 
-The units would be each name and its associated race. The potential outcome would be if or if not the name received a callback. 
+  The units would be each name or individual.
+  potential outcomes: callback if white, callback if black
+  causal model 
+  covariates: race (type of name), sex, zip code
+  treatment: black vs white name on resume
 
-
+Validity: 
 ```{r}
 
 ```
